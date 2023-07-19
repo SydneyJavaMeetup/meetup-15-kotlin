@@ -44,5 +44,12 @@ Ethos, vibe
 Code: https://github.com/mathewdj/paper-scissors-ROCK-acceptance-tests  
 Slides: [Hands off deployments in Kotlin](https://github.com/SydneyJavaMeetup/meetup-15-kotlin/files/12090155/Hands.off.deployments.in.Kotlin.pdf)  
 
+#### Streaming REST Responses with Kotlin and Ktor
+Code: 
+https://github.com/pwall567/ktor-demo-1  
+https://github.com/pwall567/ktor-demo-2  
+https://github.com/pwall567/kjson-ktor  
+https://github.com/pwall567/kjson-ktor  
+Slides: [StreamingRESTResponses.pdf](https://github.com/SydneyJavaMeetup/meetup-15-kotlin/files/12091789/StreamingRESTResponses.pdf)
 
 
