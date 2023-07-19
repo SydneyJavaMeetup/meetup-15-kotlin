@@ -38,6 +38,11 @@ Ethos, vibe
 “Before we get into the tech talks, are there any job shoutouts?”
 
 
-# Talks
+# Links
+
+#### Hands off deployments in Kotlin With Acceptance Tests
+Code: https://github.com/mathewdj/paper-scissors-ROCK-acceptance-tests  
+Slides: [Hands off deployments in Kotlin](https://github.com/SydneyJavaMeetup/meetup-15-kotlin/files/12090155/Hands.off.deployments.in.Kotlin.pdf)  
+
 
 
