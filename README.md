@@ -1,22 +1,22 @@
 # Sydney Java Meet-Up #15
-## Kotlin!
+## Kafka + JDK Performance!
 
 ### Program
 6pm - Networking/Drinks/Food  
 
 6:30pm - Event Intro and Job Shouts  
 
-6:35pm - Hands off deployments in Kotlin With Acceptance Tests (Mat Johnson)  
-
-Do you feel nervous when your code is ready to be deployed to production? Do you feel you need to manually test each deployment to ensure no regressions? This talk will share a technique to take acceptance criteria and turn it into a set of automated tests. The acceptance tests will be written using Kotlin to test a Kotlin based micro-service.  
-\- Matt is a Software Artist that loves building new capabilities using Test Driven Development and automation as much as possible. Matt enjoys working with Kotlin, Java, Python, MacOS, Ubuntu, Ansible and Kubernetes.  
+6:35pm - Kafka and Java
+Working with eventual consistency systems in production.  
+- Alex Constanti  
+Alex Constanti has over 10 years’ experience with Java and financial platforms; a self-proclaimed Agilist, Kotlin advocate and extreme programming practitioner, he leads the CES Platform development team hands-on, working on the multitude of CES payment engines, Master Data platform and the distributed architecture. Alex and his team push the boundaries of coding to produce elegant software solutions to intricate business problems.  
 
 7.10pm - 15 minute break  
 
-7:25pm - Streaming REST Responses with Kotlin and Ktor (Peter Wall)  
-
-An introduction to the coroutine capabilities of Kotlin, and a demonstration of how they can be utilised to receive JSON data, process it and output response objects on the fly. The first object in a list can be deserialised and processed fully while the second and subsequent objects are still in transit.  
-\- Peter is a Software Engineer; 4 years with Tyro. He's had had a long and varied career, including 6 years as a Senior Java Architect with Sun Microsystems in Australia and the US. He also has a large portfolio of Open Source Software at https://github.com/pwall567.  
+7:25pm - FinOps - Improve Java warmup & throughput and reduce Cloud infra costs without changing a line of code  
+Java’s warmup problem has long been an issue in ensuring peak application performance. It makes your JVM slow to get up to speed, which results in worse end-user experiences for the users of those VMs. This talk will share techniques to bring Java applications to full speed immediately after a startup. Also, Cloud costs have been skyrocketing, and engineers/architects are looking at ways to keep these under control. This talk will share how enterprises reduce cloud costs by up to 40% without changing a line of code.  
+- Satheesh Rajaraman  
+Satheesh Rajaraman is a Technology professional at Azul, a provider of high-performance OpenJDK. With over 20 years of experience in technology, Satheesh has helped numerous enterprises turbocharge their Java applications.   
 
 8pm Event Finish  
 
@@ -24,8 +24,8 @@ An introduction to the coroutine capabilities of Kotlin, and a demonstration of 
 ### Intro
 Program
 
-Quick acknowledgement of Tyro:
-Thanks to Tyro for hosting us at their office!
+Quick acknowledgement of CES:
+Thanks to Container Exchange Services (CES) for hosting us at their office! They're an awesome echo-tech company and I'm grateful for them having us here. 
 
 Ethos, vibe
 * openness
@@ -40,15 +40,5 @@ Ethos, vibe
 
 # Links
 
-#### Hands off deployments in Kotlin With Acceptance Tests
-Code: https://github.com/mathewdj/paper-scissors-ROCK-acceptance-tests  
-Slides: [Hands off deployments in Kotlin](https://github.com/SydneyJavaMeetup/meetup-15-kotlin/files/12090155/Hands.off.deployments.in.Kotlin.pdf)  
-
-#### Streaming REST Responses with Kotlin and Ktor
-Code: 
-https://github.com/pwall567/ktor-demo-1  
-https://github.com/pwall567/ktor-demo-2  
-https://github.com/pwall567/kjson-ktor  
-Slides: [StreamingRESTResponses.pdf](https://github.com/SydneyJavaMeetup/meetup-15-kotlin/files/12091789/StreamingRESTResponses.pdf)
-
+#### Kafka and Java
 
